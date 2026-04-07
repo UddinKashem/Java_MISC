@@ -1,5 +1,3 @@
-package algorithom.solutions;
-
 class Tree{
 	int data;
 	Tree left, right;
