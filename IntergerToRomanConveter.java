@@ -1,5 +1,3 @@
-package algorithom.solutions;
-
 public class IntergerToRomanConveter {
 
 	public static String toRoman(int x){
