@@ -1,5 +1,3 @@
-package algorithom.solutions;
-
 /*
  * Given the roots r1 and r2 of two binary trees,
  * determine whether they are identical.
