@@ -1,3 +1,5 @@
+package algorithom.solutions;
+
 /*
  * Given a string s, find longest substring which is a plaindrome. 
  * If there are multiple answers, then find the first appearing substring.
